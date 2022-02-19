@@ -25,7 +25,7 @@ export default function App() {
     </View>
   );
 }
-
+// git 연습
 const styles = StyleSheet.create({
   contianer: {
     flex: 1,
